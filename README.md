@@ -1,5 +1,15 @@
 ### <h1>Hola, mi nombre es Arley Benavides 👋</h1>
 
+<h3>Tecnologo en Analisis y Desarrollo de Software</h3>
+
+![fondo_linkedin](https://github.com/user-attachments/assets/648e2fd9-e380-471a-950f-bef8aadcc91a)
+## Conectate conmigo
+![linkedin](https://www.linkedin.com/in/arley-benavides-giraldo-615a35291/blob/master/Icons/LinkedIn.png)
+
+Soy Tecnologo de Software profesional desde el 2023. 
+
+Con experiencia en diversos lenguajes de programación, incluyendo Python, JavaScript, React, Django, MySQL, SQL, MongoDB, CSS y HTML. Apasionado por crear soluciones agiles y accesibles que impacten positivamente la vida de los usuarios.
+
 <!--
 **ArleyBG/ArleyBG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
