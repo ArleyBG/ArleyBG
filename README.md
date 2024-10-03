@@ -5,8 +5,7 @@
 ![fondo_linkedin](https://github.com/user-attachments/assets/648e2fd9-e380-471a-950f-bef8aadcc91a)
 ## Conectate conmigo
 
-![LinkedIn](https://github.com/ArleyBG/ArleyBG/blob/main/linkedin.png)
-![LinkedIn](https://www.linkedin.com/in/arley-benavides-giraldo-615a35291)
+[![LinkedIn](https://github.com/ArleyBG/ArleyBG/blob/main/linkedin.png)](https://www.linkedin.com/in/arley-benavides-giraldo-615a35291) LinkedIn
 
 
 Soy Tecnologo de Software profesional desde el 2023. 
