@@ -10,7 +10,7 @@
     <img src="https://github.com/ArleyBG/ArleyBG/blob/main/linkedin.png" alt="LinkedIn" style="width: 20px; height: 20px;"><b style="padding: 3px; background: blue;"> LinkedIn
   </a>
   <a href="https://www.linkedin.com/in/arley-benavides-giraldo-615a35291/" target="_blank">
-    <img src="https://github.com/ArleyBG/ArleyBG/blob/main/linkedin.png" alt="LinkedIn" style="width: 20px; height: 20px;"><b style="padding: 3px; background: blue;"> LinkedIn
+    <img src="https://github.com/ArleyBG/ArleyBG/blob/main/github.png" alt="LinkedIn" style="width: 20px; height: 20px;"><b style="padding: 3px; background: blue;"> GitHub
   </a>
 </div>
 <br>
