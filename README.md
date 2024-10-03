@@ -18,7 +18,7 @@
 </br>
 
 <p>Soy Tecnologo de Software profesional desde el 2023.<p> 
-Con experiencia en diversos lenguajes de programación, incluyendo Python, JavaScript, React, Django, MySQL, SQL, MongoDB, CSS y HTML. Apasionado por crear soluciones agiles y accesibles que impacten positivamente la vida de los usuarios.
+Con experiencia en diversos lenguajes de programación, incluyendo Python, JavaScript, React, Django, MySQL, SQL, MongoDB, CSS y HTML. Apasionado por el aprendizaje y la innovacion.
 
 </br>
 
