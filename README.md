@@ -3,16 +3,18 @@
 <h3>Tecnologo en Analisis y Desarrollo de Software</h3>
 
 ![fondo_linkedin](https://github.com/user-attachments/assets/648e2fd9-e380-471a-950f-bef8aadcc91a)
+
 ## Conectate conmigo
 
-<div style="justify-items: center;">
+<div style="display: flex; gap: 20px;">
   <a href="https://www.linkedin.com/in/arley-benavides-giraldo-615a35291/" target="_blank">
     <img src="https://github.com/ArleyBG/ArleyBG/blob/main/linkedin.png" alt="LinkedIn" style="width: 20px; height: 20px;"><b style="padding: 3px; background: blue;"> LinkedIn
   </a>
-  <a href="https://www.linkedin.com/in/arley-benavides-giraldo-615a35291/" target="_blank">
-    <img src="https://github.com/ArleyBG/ArleyBG/blob/main/github.png" alt="LinkedIn" style="width: 20px; height: 20px;"><b style="padding: 3px; background: blue;"> GitHub
+  <a href="https://github.com/ArleyBG/ArleyBG" target="_blank">
+    <img src="https://github.com/ArleyBG/ArleyBG/blob/main/github.png" alt="GitHub" style="width: 20px; height: 20px;"><b style="padding: 3px; background: blue;"> GitHub
   </a>
 </div>
+
 <br>
 Soy Tecnologo de Software profesional desde el 2023. 
 
