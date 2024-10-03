@@ -15,10 +15,14 @@
   </a>
 </div>
 
-<br>
-Soy Tecnologo de Software profesional desde el 2023. 
+</br>
 
+Soy Tecnologo de Software profesional desde el 2023. 
 Con experiencia en diversos lenguajes de programación, incluyendo Python, JavaScript, React, Django, MySQL, SQL, MongoDB, CSS y HTML. Apasionado por crear soluciones agiles y accesibles que impacten positivamente la vida de los usuarios.
+
+</br>
+
+## Proyectos
 
 <!--
 **ArleyBG/ArleyBG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
