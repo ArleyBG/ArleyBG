@@ -6,13 +6,13 @@
 
 ## Conectate conmigo
 
-<div style="display: flex; gap: 20px;">
+<div>
   <a href="https://www.linkedin.com/in/arley-benavides-giraldo-615a35291/" target="_blank">
-    <img src="https://github.com/ArleyBG/ArleyBG/blob/main/linkedin.png" alt="LinkedIn" style="width: 20px; height: 20px;"><b style="padding: 3px; background: blue;"> LinkedIn
-  </a>
+    <img src="https://github.com/ArleyBG/ArleyBG/blob/main/linkedin.png" alt="LinkedIn" style="width: 20px; height: 20px;"> LinkedIn
+  </a>&nbsp;
   <a href="https://github.com/ArleyBG/ArleyBG" target="_blank">
-    <img src="https://github.com/ArleyBG/ArleyBG/blob/main/github.png" alt="GitHub" style="width: 20px; height: 20px;"><b style="padding: 3px; background: blue;"> GitHub
-  </a>
+    <img src="https://github.com/ArleyBG/ArleyBG/blob/main/github.png" alt="GitHub" style="width: 20px; height: 20px;"> GitHub
+  </a><hr></hr>
 </div>
 
 </br>
